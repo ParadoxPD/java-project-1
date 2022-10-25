@@ -2,4 +2,4 @@
 
 # description
 
-Java based erp system
+Java based Human Resourse Management system
