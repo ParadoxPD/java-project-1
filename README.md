@@ -1,5 +1,5 @@
-# java-project-1
+# ERP System
 
 # description
 
-Java based Human Resourse Management system
+Java based Human Resourse Management System
