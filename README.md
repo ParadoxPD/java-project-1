@@ -1,5 +1,7 @@
 # ERP System
 
-# description
+# Description
 
-Java based Human Resourse Management System
+Java based Human Resourse Management System 
+
+## Technologies used:-
