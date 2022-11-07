@@ -5,6 +5,6 @@
 Java based Human Resourse Management System 
 
 ## Technologies used:-
-# FrontEnd:-
+### FrontEnd:-
   - 
-# BackEnd:-
+### BackEnd:-
