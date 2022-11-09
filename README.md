@@ -8,4 +8,6 @@ Java based Human Resourse Management System
 ### FrontEnd:-
   - 
 ### BackEnd:-
-  -
+  - SpringBoot
+  - Hibernate
+  - MySQL
