@@ -1,9 +1,17 @@
 # ERP System
 
-# description
+# Description
 
-Java based Human Resourse Management System
+=======
+Java based Human Resourse Management System 
 
-#ToDo List
+## Technologies used:-
+### FrontEnd:-
+  - HTML 
+### BackEnd:-
+  - SpringBoot
+  - Hibernate
+  - MySQL
+  
+ 
 
-- [x]
