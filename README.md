@@ -5,3 +5,5 @@
 Java based Human Resourse Management System
 
 #ToDo List
+
+- [x]
