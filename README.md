@@ -2,7 +2,6 @@
 
 # Description
 
-=======
 Java based Human Resourse Management System 
 
 ## Technologies used:-
