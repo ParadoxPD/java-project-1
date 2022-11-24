@@ -1,6 +1,6 @@
 # ERP System
 
-# Project DEscription
+# Project Description
 
 Java based Human Resourse Management System 
 
